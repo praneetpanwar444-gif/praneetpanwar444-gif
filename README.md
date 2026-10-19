@@ -1,16 +1,37 @@
-## Hi there 👋
 
-<!--
-**praneetpanwar444-gif/praneetpanwar444-gif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi, I'm Praneet Choudhary 👋
 
-Here are some ideas to get you started:
+### B.Tech Undergraduate | Aspiring Software Engineer | AI & Technology Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm a B.Tech undergraduate at **Bennett University (2023–2027)**, interested in software engineering, artificial intelligence, and building practical technology solutions.
+
+I enjoy exploring new technologies, strengthening my problem-solving skills, and turning ideas into meaningful projects.
+
+---
+
+### 👨‍💻 About Me
+
+- 🎓 Pursuing B.Tech at **Bennett University**
+- 💻 Interested in **Software Development and Engineering**
+- 🧠 Exploring **Artificial Intelligence and Machine Learning**
+- 📚 Focused on **Data Structures, Algorithms, and Problem Solving**
+- 🚀 Working toward building impactful, real-world projects
+- 🤝 Open to technical collaborations and learning opportunities
+
+### 🛠️ Areas of Interest
+
+`Software Engineering` · `Artificial Intelligence` · `Machine Learning` · `Data Structures & Algorithms` · `Problem Solving` · `Open Source`
+
+### 🎓 Education
+
+**Bennett University**  
+Bachelor of Technology (B.Tech) | 2023–2027
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/praneet-choudhary/)
+
+---
+
+<p align="center"><i>Learning continuously. Building thoughtfully. Growing as an engineer.</i></p>
+  
